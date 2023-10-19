@@ -1,0 +1,16 @@
+body{
+    background-color: #0d0d0e;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
